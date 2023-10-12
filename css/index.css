@@ -12,22 +12,19 @@ body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-
-#carousel{
-    /* background: hsla(33, 48%, 43%, 1);
-
-    background: linear-gradient(45deg, hsla(33, 48%, 43%, 1) 0%, hsla(34, 35%, 68%, 1) 9%, hsla(0, 0%, 100%, 1) 100%);
-    
-    background: -moz-linear-gradient(45deg, hsla(33, 48%, 43%, 1) 0%, hsla(34, 35%, 68%, 1) 9%, hsla(0, 0%, 100%, 1) 100%);
-    
-    background: -webkit-linear-gradient(45deg, hsla(33, 48%, 43%, 1) 0%, hsla(34, 35%, 68%, 1) 9%, hsla(0, 0%, 100%, 1) 100%);
-    
-    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#A17339", endColorstr="#CAB190", GradientType=1 ); */
-
-    height: 90%;
-    /* background-image: url('../assets/kid-brown.png');
-    background-size: 100% 100%; */
+.ubuntu-font{
+    font-family: 'Ubuntu', sans-serif !important;
 }
+
+#sliders{
+    max-height: 90%;
+    overflow-y: hidden;
+}
+
+#navigation{
+    min-height: 10%;
+}
+
 
 .nav-parent{
     height: 10% !important;
