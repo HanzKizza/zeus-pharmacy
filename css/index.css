@@ -17,7 +17,7 @@ body{
 }
 
 #sliders{
-    max-height: 90%;
+    height: 90%;
     overflow-y: hidden;
 }
 
@@ -25,6 +25,11 @@ body{
     min-height: 10%;
 }
 
+#fore{
+    height: 100%;
+    background-image: url("assets/nurse.png");
+    background-size: 100%;
+}
 
 .nav-parent{
     height: 10% !important;
