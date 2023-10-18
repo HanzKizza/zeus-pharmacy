@@ -34,3 +34,7 @@ body{
 .nav-parent{
     height: 10% !important;
 }
+
+.commitment-div{
+    width: 50%;
+}
