@@ -54,5 +54,8 @@ body{
         backdrop-filter: blur(20px);
     }
 
+    #fore2{
+        margin-top: -150px !important;
+    }
 
   }
